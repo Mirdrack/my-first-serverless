@@ -1,0 +1,28 @@
+{
+  "name": "my-first-serverless",
+  "version": "1.0.0",
+  "description": "Serverless tutorial",
+  "main": "handler.js",
+  "dependencies": {
+    "serverless-offline": "^5.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirdrack/my-first-serverless.git"
+  },
+  "keywords": [
+    "serverless",
+    "lambda",
+    "aws"
+  ],
+  "author": "mirdrack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirdrack/my-first-serverless/issues"
+  },
+  "homepage": "https://github.com/Mirdrack/my-first-serverless#readme"
+}
